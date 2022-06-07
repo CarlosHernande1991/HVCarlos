@@ -1,0 +1,37 @@
+.center {
+  text-align: center;
+}
+.titulo1 {
+  color: #005677;
+  background-color: #c4c4c4;
+  text-align: center;
+  letter-spacing: 3mm;
+}
+.titulo2 {
+  color: #005677;
+  background-color: #c4c4c4;
+}
+.negritCursiva {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.negrita {
+  font-weight: bold;
+}
+
+.padding6 {
+  padding-left: 6mm;
+}
+.padding30 {
+  padding-left: 21mm;
+}
+.margin {
+  margin-top: 0%;
+}
+.footerbackground {
+  background-color: #005677;
+}
+.colorblanco {
+  color: white;
+}
